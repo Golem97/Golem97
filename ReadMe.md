@@ -29,7 +29,7 @@
 <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="CSS3" width="40" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="55" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/Wireshark" title="WireShark"> <img src="https://pbs.twimg.com/profile_images/539598799732097024/CAAUmNO1.png" alt="WireShark" width="40" height="40"/></a>
- <a href="https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" title="Git"> <img src="https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" alt="Git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 
 </p>
 
