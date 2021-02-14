@@ -1,6 +1,12 @@
 <h1 align="center"> 🖥 Nathanaël Benichou  🖥</h1>
 <h1 align="center">📋 Computer Science student At Ariel University  📋</h2>
 
+📌 French Student living in Israel
+👄 I speak French, English and Hebrew 
+💬 LinkedIn: www.linkedin.com/in/nathanael-benichou-2943b8203/
+📫 Email: nathbenich736@gmail.com
+
+
 <h2 align="left">Languages  💻</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
