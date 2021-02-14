@@ -9,10 +9,6 @@
   </p>
 
 
-
-
-
-
 </br>
 
 <a href="https://github.com/Golem97/convoychat">
