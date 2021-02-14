@@ -1,7 +1,7 @@
 <h1 align="center"> 🖥  Nathanaël Benichou  🖥</h1>
 <h1 align="center">💻  Computer Science student At Ariel University  💻</h2>
 
-<h2 align="left">Languages ⌨️</h2>
+<h2 align="left">Languages 💻</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/></a>
