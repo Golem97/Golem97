@@ -12,6 +12,7 @@
 
 <h2 align="left">Tools</h2>
 <p align="left"> 
+<a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src=" https://www.google.com/url?sa=i&url=http%3A%2F%2Ffr.4androidapk.com%2Fcategory%2Fart-design%2Fcanva-free-photo-editor-graphic-design-tool-download-47636.html&psig=AOvVaw1AFUIAEWMXODHAQ5Xc6P7U&ust=1613396277961000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiA4NO_6e4CFQAAAAAdAAAAABAJ" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
