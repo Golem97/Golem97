@@ -6,7 +6,7 @@
 <li>💬 LinkedIn: www.linkedin.com/in/nathanael-benichou-2943b8203/</li>
 <li>📫 Email: nathbenich736@gmail.com</li>
 
-<a href="https://ibb.co/W0jFJhM"><img src="https://i.ibb.co/r3NMrjz/bannie-re-Linkedin.png" alt="bannie-re-Linkedin" border="0"></a>
+
 
 <h2 align="left">Languages  💻</h2>
 <p align="left">
