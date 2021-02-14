@@ -14,7 +14,7 @@
   <a href="https://fr.wikipedia.org/wiki/CSS3" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 
 </p>
-
+<h2 align="center">Github Statistics</h2>
 <a href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=highcontrast" width="450" height="400"/>
 </a> 
