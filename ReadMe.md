@@ -5,6 +5,6 @@
 </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=midnight-purple" width="370" height="370"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=midnight-purple" width="380" height="380"  />
 </a>
 
