@@ -55,6 +55,10 @@
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" alt="surf" width="42" height="42" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" style="max-width:100%;">
 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/desktop-computer_1f5a5-fe0f.png" alt="surf" width="42" height="42" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/desktop-computer_1f5a5-fe0f.png" style="max-width:100%;">
+
+
+
 </a>
 
 
