@@ -13,9 +13,6 @@
  <a href="https://fr.wikipedia.org/wiki/CSS3" title="CSS3"> <img src="https://webdevpro.net/wp-content/uploads/2017/12/css3.png" alt="CSS3" width="40" height="40"/></a>
 </p>
 
-
-</br>
-
 <a href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=highcontrast" width="450" height="400"/>
 </a> 
