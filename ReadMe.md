@@ -1,4 +1,5 @@
-<h1>Nathanael Benichou</h1>
+<h1>Nathanaël Benichou</h1>
+<h2>Student at CS Ariel university </h2>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=midnight-purple" width="450" height="400"/>
