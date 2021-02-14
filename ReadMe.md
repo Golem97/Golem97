@@ -21,6 +21,8 @@
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" width="40" height="40"/></a>
  <a href="https://fr.wikipedia.org/wiki/CSS3" title="CSS3"> <img src="https://webdevpro.net/wp-content/uploads/2017/12/css3.png" alt="CSS3" width="40" height="40"/></a>
+<a href="https://fr.wikipedia.org/wiki/CSS3" title="CSS3"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="CSS3" width="40" height="40"/></a>
+ 
 </p>
 
 <h2 align="left">Github Statistics</h2>
