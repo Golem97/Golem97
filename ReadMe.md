@@ -3,7 +3,7 @@
 
 <li> 📍 French Student living in Israel</li>
 <li> 👄 I speak French, English and Hebrew </li>
-<li>💬 LinkedIn: http://linkedin.com/in/nathanael-benichou-29b815117</li>
+<li>💬 LinkedIn: https://www.linkedin.com/in/nathanael-benichou-29b815117/</li>
 <li>📫 Email: nathbenich736@gmail.com</li>
 
 
