@@ -38,10 +38,6 @@
 <a align="center" href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=nord" width="450" height="200"/>
 </a> 
- 
- <a align="center" href="https://github.com/Golem97/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Golem97&theme=nord" width="450" height="200"/>
-</a> 
 
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=nord" width="380" height="200"  />
