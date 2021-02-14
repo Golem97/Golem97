@@ -22,6 +22,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
+ <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
