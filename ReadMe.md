@@ -70,6 +70,6 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/wolf_1f43a.png" alt="surf" width="35" height="35" data-canonical-href="https://www.instagram.com/wolfirsky/" style="max-width:100%;">
 
 </a>
-
+https://www.canva.com/design/DAEI_hL3Sj8/view
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEI_hL3Sj8&#x2F;view?utm_content=DAEI_hL3Sj8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">JUST A SITE </a> par Nath Ben
 
