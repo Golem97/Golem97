@@ -16,7 +16,7 @@
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="CSS3" width="40" height="40"/></a>
-<a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="50" height="40"/></a>
+<a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="55" height="40"/></a>
 </p>
 
 <h2 align="left">Github Statistics</h2>
