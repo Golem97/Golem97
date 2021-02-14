@@ -1,4 +1,4 @@
-<h1 align="center">Nathanaël Benichou</h1>
+ <a href="https://fr.wikipedia.org/wiki/CSS3" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a><h1 align="center">Nathanaël Benichou</h1><a href="https://fr.wikipedia.org/wiki/CSS3" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <h1 align="center">Computer Science student @Ariel University</h2>
 
 <h2 align="center">Languages and Tools:</h2>
