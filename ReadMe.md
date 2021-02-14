@@ -2,9 +2,9 @@
 <h1 align="center">Computer Science student @Ariel University</h2>
 <h2>Center of Interest</h2>
 
-<h3 align="center"><img src="https://camo.githubusercontent.com/f291ce6ba41e44eb3006ce8bd83ef53321fb7c51d577943824f9130f345387c0/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f66616365626f6f6b2f36352f686f742d62657665726167655f323631352e706e67" alt="coffee" width="45" height="50" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/65/hot-beverage_2615.png" style="max-width:100%;"></h3>
+<h3 align="center"><img src="https://camo.githubusercontent.com/f291ce6ba41e44eb3006ce8bd83ef53321fb7c51d577943824f9130f345387c0/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f66616365626f6f6b2f36352f686f742d62657665726167655f323631352e706e67" alt="coffee" width="45" height="50" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/65/hot-beverage_2615.png" style="max-width:100%;">
   
-  <h3 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/soccer-ball_26bd.png" alt="coffee" width="45" height="50" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/soccer-ball_26bd.png" style="max-width:100%;"> </a><a href="#"></h3>
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/soccer-ball_26bd.png" alt="coffee" width="45" height="50" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/soccer-ball_26bd.png" style="max-width:100%;"> </a><a href="#"></h3>
   
   </p>
 
