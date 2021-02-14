@@ -1,7 +1,7 @@
 <h1 align="center"> 🖥  Nathanaël Benichou  🖥</h1>
 <h1 align="center">💻  Computer Science student At Ariel University  💻</h2>
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Languages ⌨️</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/></a>
@@ -10,7 +10,7 @@
  <a href="https://fr.wikipedia.org/wiki/CSS3" title="CSS3"> <img src="https://webdevpro.net/wp-content/uploads/2017/12/css3.png" alt="CSS3" width="40" height="40"/></a>
 </p>
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Tools 🛠</h2>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
