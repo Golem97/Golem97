@@ -24,7 +24,7 @@
 
 
 <h2 align="left">Github Statistics</h2>
-
+<center>
 <a align="center" href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=great-gatsby" width="450" height="200"/>
 </a> 
@@ -32,6 +32,7 @@
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=great-gatsby" width="380" height="200"  />
 </a>
+</center>
 
 
 <h2>Center of Interest</h2>
