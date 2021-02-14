@@ -36,11 +36,11 @@
 <h2 align="left">Github Statistics</h2>
 <center>
 <a align="center" href="https://github.com/Golem97/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=algolia&bg_color=DEG,000000,000000,2544e1" width="450" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=react&bg_color=DEG,000000,000000,2544e1" width="450" height="200"/>
 </a> 
 
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=algolia&bg_color=DEG,000000,000000,2544e1" width="380" height="200"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=reacta&bg_color=DEG,000000,000000,2544e1" width="380" height="200"  />
 </a>
 </center>
 
