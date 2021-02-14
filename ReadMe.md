@@ -1,11 +1,12 @@
 <h1 align="center"> 🖥 Nathanaël Benichou  🖥</h1>
 <h1 align="center">📋 Computer Science student At Ariel University  📋</h2>
 
-📌 French Student living in Israel
-👄 I speak French, English and Hebrew 
-💬 LinkedIn: www.linkedin.com/in/nathanael-benichou-2943b8203/
-📫 Email: nathbenich736@gmail.com
-
+<ul>
+<li>📌 French Student living in Israel</li>
+<li> 👄 I speak French, English and Hebrew </li>
+<li>💬 LinkedIn: www.linkedin.com/in/nathanael-benichou-2943b8203/</li>
+<li>📫 Email: nathbenich736@gmail.com</li>
+/ul>
 
 <h2 align="left">Languages  💻</h2>
 <p align="left">
