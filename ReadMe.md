@@ -8,6 +8,7 @@
 <li>🖥 PDG: http://hebergeur-jas.fr/</li>
 
 
+
 <h2 align="left">Languages  💻</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
@@ -36,6 +37,10 @@
 <center>
 <a align="center" href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=nord" width="450" height="200"/>
+</a> 
+ 
+ <a align="center" href="https://github.com/Golem97/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Golem97&theme=nord" width="450" height="200"/>
 </a> 
 
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
