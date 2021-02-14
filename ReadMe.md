@@ -1,5 +1,5 @@
 <h1 align="center">Nathanaël Benichou</h1>
-<h1 align="center">Student at CS Ariel university </h2>
+<h1 align="center">Computer Science student @Ariel University</h2>
 
 <a href="https://github.com/Golem97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=highcontrast" width="450" height="400"/>
