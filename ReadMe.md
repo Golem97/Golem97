@@ -40,7 +40,7 @@
 </a> 
 
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme="algolia"&bg_color=DEG,000000,000000,2544e1" width="380" height="200"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=algolia&bg_color=DEG,000000,000000,2544e1" width="380" height="200"  />
 </a>
 </center>
 
