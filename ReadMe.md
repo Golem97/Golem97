@@ -36,7 +36,7 @@
 <h2 align="left">Github Statistics</h2>
 <center>
 <a align="center" href="https://github.com/Golem97/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=nord" width="450" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&bg_color=DEG,#000000,#2544e1" width="450" height="200"/>
 </a> 
 
 <a align="center" href="https://github.com/Golem97/github-readme-stats">
