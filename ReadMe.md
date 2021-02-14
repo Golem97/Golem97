@@ -30,4 +30,5 @@
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.gitkraken.com" title="Gitkraken"> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="Gitkraken" width="40" height="40"/></a>
+ <a href="https://www.gitkraken.com" title="Gitkraken"> <img src="https://webdevpro.net/wp-content/uploads/2017/12/css3.png" alt="Gitkraken" width="40" height="40"/></a>
 </p>
