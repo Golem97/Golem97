@@ -1,5 +1,5 @@
-<h1 align="center"> 🖥  Nathanaël Benichou  🖥</h1>
-<h1 align="center">💻  Computer Science student At Ariel University  💻</h2>
+<h1 align="center"> 🖥 Nathanaël Benichou  🖥</h1>
+<h1 align="center">📋 Computer Science student At Ariel University  📋</h2>
 
 <h2 align="left">Languages  💻</h2>
 <p align="left">
