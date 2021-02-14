@@ -52,6 +52,9 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/man-cook_1f468-200d-1f373.png" alt="surf" width="52" height="52" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/clapper-board_1f3ac.png" style="max-width:100%;">
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/artist-palette_1f3a8.png" alt="surf" width="52" height="52" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/artist-palette_1f3a8.png" style="max-width:100%;">
+
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" alt="surf" width="52" height="52" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" style="max-width:100%;">
+
 </a>
 
 
