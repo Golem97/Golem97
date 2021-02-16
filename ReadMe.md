@@ -20,7 +20,7 @@
 
 <h2 align="left">Tools  🛠</h2>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
+<a href="https://lh3.googleusercontent.com/proxy/iLNS0c7HmleutdqMKs9S_BVMU1u5Y6ijiEueW-FdMEyb-y7DEmZRPBQhAQTS8oT3rE5OhSHbTxPTxkRf4wMvjl2UoqtYmevqe-N9912a-ELZyPRVfQXeJfbpbOdBeo_a7PLzsZ4ra2DtpdFiCEuP7lMTDAEPFkhJEiXN1p4" title="Canva"> <img src="https://lh3.googleusercontent.com/proxy/iLNS0c7HmleutdqMKs9S_BVMU1u5Y6ijiEueW-FdMEyb-y7DEmZRPBQhAQTS8oT3rE5OhSHbTxPTxkRf4wMvjl2UoqtYmevqe-N9912a-ELZyPRVfQXeJfbpbOdBeo_a7PLzsZ4ra2DtpdFiCEuP7lMTDAEPFkhJEiXN1p4" alt="Canva" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="PyCharm" width="40" height="40"/></a>
