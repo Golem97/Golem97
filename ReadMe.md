@@ -12,7 +12,7 @@
 <h2 align="left">Languages  💻</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" title="BASH"> <img src="https://img2.freepng.fr/20180425/tiw/kisspng-bash-shell-command-line-interface-ls-5ae067b472c521.2974005515246560524701.jpg" alt="BASH" width="45" height="45"/></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" title="BASH"> <img src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" alt="BASH" width="45" height="45"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/></a>
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/</a> <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/></a>  
 <a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" width="40" height="40"/></a>
