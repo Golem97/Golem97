@@ -12,7 +12,7 @@
 <h2 align="left">Languages  💻</h2>
 <p align="left">
 <a href="https://www.asm-smt.com/en/" title="ASM"> <img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" alt="ASM" width="45" height="45"/></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" title="BASH"> <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo.png" alt="ASM" width="45" height="45"/></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" title="BASH"> <img src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" alt="ASM" width="45" height="45"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/></a>
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/</a> <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/></a>  
 <a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" width="40" height="40"/></a>
