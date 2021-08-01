@@ -28,10 +28,7 @@
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="CSS3" width="40" height="40"/></a>
- 
- <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="CSS3" width="40" height="40"/></a>
- 
-<a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="55" height="40"/></a>
+ <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="55" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/Wireshark" title="WireShark"> <img src="https://pbs.twimg.com/profile_images/539598799732097024/CAAUmNO1.png" alt="WireShark" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" target="VM"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Scapy" width="40" height="40"/>  </a>
