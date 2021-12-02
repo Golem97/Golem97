@@ -3,9 +3,11 @@
 
 <li> 📍 French Student living in Israel</li>
 <li> 👄 I speak French, English and Hebrew </li>
-<li>💬 LinkedIn: https://www.linkedin.com/in/nathanael-benichou-29b815117/</li>
-<li>📫 Email: <a href="mailto:nathbenich736@gmail.com">nathbenich736@gmail.com</a></li>
-<li>🖥 PDG: http://hebergeur-jas.fr/</li>
+<li> 💬 LinkedIn: https://www.linkedin.com/in/nathanael-benichou-29b815117/</li>
+<li> 📫 Email: <a href="mailto:nathbenich736@gmail.com">nathbenich736@gmail.com</a></li>
+<li> 🛡 CV Online: https://nathanael-benichou.fr/</li>
+<li> 🖥  PDG: http://hebergeur-jas.fr/</li>
+
 
 
 
