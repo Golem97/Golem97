@@ -17,7 +17,7 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="CPP"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" width="40" height="40"/></a>
 <a href="https://www.java.com" target="Java"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="20" height="40"/</a> <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/></a>  
-<a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="http://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" alt="HTML5" width="40" height="40"/></a>
+<a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="HTML5" width="40" height="40"/></a>
  <a href="https://fr.wikipedia.org/wiki/CSS3" title="CSS3"> <img src="https://webdevpro.net/wp-content/uploads/2017/12/css3.png" alt="CSS3" width="40" height="40"/></a>
 </p>
 
