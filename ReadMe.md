@@ -11,7 +11,7 @@
 <h2 align="left">FullStack (M-E-R-N Stack) 💻</h2>
  <p align="left">
    <img src="https://victordarocha.files.wordpress.com/2017/03/mongodb.png" alt="M" width="60" height="60"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="E" width="80" height="60"/>
+   <img src="https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png" alt="E" width="60" height="60"/>
    <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="R" width="70" height="60"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="N" width="80" height="60"/>
  </p>
