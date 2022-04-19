@@ -8,7 +8,7 @@
 <li> 🛡 CV Online: https://nathanael-benichou.fr/</li>
 <li> 🖥  PDG: http://hebergeur-jas.fr/</li>
 
-<h2 align="left">My Stack (M-E-R-N) 💻</h2>
+<h2 align="left">My Stack (M-E-R-N) 🖥 </h2>
  <p align="left">
    <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="M"/>
    <img src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" alt="E" />
@@ -19,7 +19,7 @@
 
 
 
-<h2 align="left">Languages  💻</h2>
+<h2 align="left">Languages ⌨️ </h2>
 <p align="left">
    <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/>
    <img src="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>
@@ -35,7 +35,7 @@
 
 
 
-<h2 align="left">DataBase  💻</h2>
+<h2 align="left">DataBase 📂</h2>
 <p align="left">
    <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/>
    <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
@@ -46,7 +46,7 @@
 
 
 
-<h2 align="left">Tools  🛠</h2>
+<h2 align="left">Tools 🛠</h2>
 <p align="left"> 
 <a href="https://github.com/Jewgah/MyIcons/raw/master/canva.png" title="Canva"> <img src="https://github.com/Jewgah/MyIcons/raw/master/canva.png" alt="Canva" width="42" height="42"/></a>
 <a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
