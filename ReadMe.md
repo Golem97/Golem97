@@ -48,26 +48,12 @@
 
 <h2 align="left">Tools 🛠</h2>
 <p align="left"> 
-<a href="https://github.com/Jewgah/MyIcons/raw/master/canva.png" title="Canva"> <img src="https://github.com/Jewgah/MyIcons/raw/master/canva.png" alt="Canva" width="42" height="42"/></a>
-<a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/nathanael-benichou-2943b8203/" title="Linkedin"> <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Linkedin" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="CSS3" width="40" height="40"/></a>
- <a href="https://fr.wikipedia.org/wiki/CSS3" title="ADS"> <img src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="CSS3" width="55" height="40"/></a>
-<a href="https://fr.wikipedia.org/wiki/Wireshark" title="WireShark"> <img src="https://pbs.twimg.com/profile_images/539598799732097024/CAAUmNO1.png" alt="WireShark" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" target="VM"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Scapy" width="40" height="40"/>  </a>
- <a href="https://scapy.net/" target="Scapy"> <img src="https://scapy.net/assets/img/logo.png" alt="scapy" width="40" height="40"/>  </a>
+<img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
+ <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
+ 
+ <img src="https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
+  <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
 
- <a href="https://camo.githubusercontent.com/c6c59fae1822ee2c903f9ae6d6e1c8f1f602c7a922aac7b08ebddadc27065001/68747470733a2f2f7365656473656375726974796c6162732e6f72672f6173736574732f696d616765732f736565645f6c6162735f622e706e67" target="VM"> <img src="https://camo.githubusercontent.com/c6c59fae1822ee2c903f9ae6d6e1c8f1f602c7a922aac7b08ebddadc27065001/68747470733a2f2f7365656473656375726974796c6162732e6f72672f6173736574732f696d616765732f736565645f6c6162735f622e706e67" alt="git" width="100" height="40"/>  </a>
- <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" title="Linux"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="WireShark" width="40" height="40"/></a>
- 
- 
- 
- 
- 
 
 </p>
 
