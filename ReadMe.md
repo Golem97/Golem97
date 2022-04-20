@@ -1,4 +1,4 @@
-<h1 align="center"> 🖥 Nathanaël Benichou  🖥</h1>
+<h1 align="center"> 🖥   Nathanaël Benichou   🖥</h1>
 <h1 align="center">📋 Computer Science student At Ariel University  📋</h2>
 
 <li> 📍 French Student living in Israel</li>
