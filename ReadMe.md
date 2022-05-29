@@ -6,7 +6,7 @@
 <li> 💬 <a href="https://www.linkedin.com/in/nathanael-benichou-29b815117/"><img src="https://camo.githubusercontent.com/f28aed6fa39b337618685d0389b0f3018885aeed9910b68b5e0f9ada8d7057f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d687474703a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6579616c6576692f"/></a> </li>
 <li> 📫 Email: <a href="mailto:nathbenich736@gmail.com">nathbenich736@gmail.com</a></li>
 <li> 🛡 CV Online: https://nathanael-benichou.fr/</li>
-<li> 🖥  PDG: http://hebergeur-jas.fr/</li>
+<li> 🖥 Full stack Developer: https://2bdigital.co/</li>
 
 <h2 align="left">My Stack (M-E-R-N)  🖥 </h2>
  <p align="left">
